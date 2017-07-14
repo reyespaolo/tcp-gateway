@@ -1,0 +1,22 @@
+{
+  "name": "tcp-gateway",
+  "version": "1.0.0",
+  "description": "TCP Gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyespaolo/tcp-gateway.git"
+  },
+  "author": "Paolo Brainard M. Reyes <xreyes.paolox@gmail.com> (http://360logix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyespaolo/tcp-gateway/issues"
+  },
+  "homepage": "https://github.com/reyespaolo/tcp-gateway#readme",
+  "dependencies": {
+    "async": "^2.5.0"
+  }
+}
